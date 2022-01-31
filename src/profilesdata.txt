@@ -1,0 +1,94 @@
+// 20220128120349
+// https://jsonplaceholder.typicode.com/users
+
+[
+ {
+  "id": 1,
+  "username": "Leanne Graham",
+  "profilename": "Bret",
+  "email": "Sincere@april.biz",
+  "phone": "1-770-736-8031 x56442",
+  "website": "hildegard.org",
+  "company": "Romaguera-Crona"
+ },
+ {
+  "id": 2,
+  "username": "Ervin Howell",
+  "profilename": "Antonette",
+  "email": "Shanna@melissa.tv",
+  "phone": "010-692-6593 x09125",
+  "website": "anastasia.net",
+  "company": "Deckow-Crist"
+ },
+ {
+  "id": 3,
+  "username": "Clementine Bauch",
+  "profilename": "Samantha",
+  "email": "Nathan@yesenia.net",
+  "phone": "1-463-123-4447",
+  "website": "ramiro.info",
+  "company": "Romaguera-Jacobson"
+ },
+ {
+  "id": 4,
+  "username": "Patricia Lebsack",
+  "profilename": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": "Robel-Corkery"
+ },
+ {
+  "id": 5,
+  "username": "Chelsey Dietrich",
+  "profilename": "Kamren",
+  "email": "Lucio_Hettinger@annie.ca",
+  "phone": "(254)954-1289",
+  "website": "demarco.info",
+  "company": "Keebler LLC"
+ },
+ {
+  "id": 6,
+  "username": "Mrs. Dennis Schulist",
+  "profilename": "Leopoldo_Corkery",
+  "email": "Karley_Dach@jasper.info",
+  "phone": "1-477-935-8478 x6430",
+  "website": "ola.org",
+  "company": "Considine-Lockman"
+ },
+ {
+  "id": 7,
+  "username": "Kurtis Weissnat",
+  "profilename": "Elwyn.Skiles",
+  "email": "Telly.Hoeger@billy.biz",
+  "phone": "210.067.6132",
+  "website": "elvis.io",
+  "company": "Johns Group"
+ },
+ {
+  "id": 8,
+  "username": "Nicholas Runolfsdottir V",
+  "profilename": "Maxime_Nienow",
+  "email": "Sherwood@rosamond.me",
+  "phone": "586.493.6943 x140",
+  "website": "jacynthe.com",
+  "company": "Abernathy Group"
+ },
+ {
+  "id": 9,
+  "username": "Glenna Reichert",
+  "profilename": "Delphine",
+  "email": "Chaim_McDermott@dana.io",
+  "phone": "(775)976-6794 x41206",
+  "website": "conrad.com",
+  "company": "Yost and Sons"
+ },
+ {
+  "id": 10,
+  "username": "Clementina DuBuque",
+  "profilename": "Moriah.Stanton",
+  "phone": "024-648-3804",
+  "website": "ambrose.net",
+  "company": "Hoeger LLC"
+ }
+]
